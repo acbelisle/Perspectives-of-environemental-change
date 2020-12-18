@@ -1,4 +1,4 @@
-# Perspectives-of-environemental-change
+# Perspectives-on-environemental-changes
 This repository contains:
 1) The outputs of the Scopus queries
 2) The code to process the Scopus outputs
